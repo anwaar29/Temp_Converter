@@ -12,6 +12,12 @@ const Conv = () => {
     const handleinput=(e)=>{
        setvalue(e.target.value)
        console.log(value)
+       console.log(celc)
+       console.log(fore)
+       console.log(kel)
+       console.log(final)
+       console.log(setkel)
+       console.log(setfinal)
     }
     const handledrop=(e)=>{
     const seltemp=e.target.value
