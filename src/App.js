@@ -1,9 +1,10 @@
 import './App.css';
-import Conv from './Conv'
+import Conv2 from './Conv2';
 function App() {
   return (
   
-            <Conv/>
+          
+            <Conv2/>
     
   );
 }
